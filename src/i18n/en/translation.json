@@ -1,0 +1,32 @@
+{
+  "header": {
+    "title": {
+      "part1": "Case",
+      "part2": "Police"
+    },
+    "search": "search ⌘ K",
+    "home": "Home",
+    "index": "Index",
+    "about": "About"
+  },
+  "home": {
+    "hero": {
+      "part1": "Maybe your",
+      "part2": "interviewer",
+      "part3": "doesn't like you because of this detail on your resume, which is the",
+      "part4": "capitalization",
+      "part5": "of your proper nouns."
+    },
+    "case": {
+      "good": "good",
+      "bad": "bad"
+    }
+  },
+  "index": {
+    "brand": "Brand",
+    "general": "General",
+    "product": "Product",
+    "software": "Software",
+    "abbreviation": "Abbreviation"
+  }
+}

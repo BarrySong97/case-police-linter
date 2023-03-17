@@ -1,0 +1,32 @@
+{
+  "header": {
+    "title": {
+      "part1": "大小写",
+      "part2": "警察"
+    },
+    "home": "首页",
+    "search": "搜索 ⌘ K",
+    "index": "索引",
+    "about": "关于"
+  },
+  "home": {
+    "hero": {
+      "part1": "也许你的",
+      "part2": "面试官",
+      "part3": "会因为简历上的一点小细节降低他对你的好感度, 那就是",
+      "part4": "大小写拼写",
+      "part5": "的名词问题"
+    },
+    "case": {
+      "good": "好的",
+      "bad": "错误"
+    }
+  },
+  "index": {
+    "brand": "品牌",
+    "general": "一般",
+    "product": "产品",
+    "software": "软件",
+    "abbreviation": "缩写"
+  }
+}
