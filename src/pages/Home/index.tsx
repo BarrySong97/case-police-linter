@@ -1,4 +1,11 @@
-import { abbreviates, brands, general, products, softwares } from "../../data";
+import {
+  abbreviates,
+  brands,
+  general,
+  initString,
+  products,
+  softwares,
+} from "../../data";
 import { useEffect, useRef, useState } from "react";
 import { useLocalStorageState } from "ahooks";
 import "./index.css";
@@ -18,8 +25,7 @@ export default function Home({}: Props) {
   const [inputHtml, setInputHtml] = useLocalStorageState<string | undefined>(
     "inputHtml",
     {
-      defaultValue:
-        "<span class='marked-text' ><span class='marked-text-with-line-through'>github</span><span class='right-text'>GitHub</span></span>",
+      defaultValue: initString,
     }
   );
 
